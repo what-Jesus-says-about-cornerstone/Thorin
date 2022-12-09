@@ -1,0 +1,10 @@
+i am find program, i say:
+
+- automated index - i crawl torrent network, forming the index of files
+- query the whole index - i exchange indexes with other find programs so we each have the whole index to query
+- index is just data in db - i extract file info and show seeds (pins)
+- automatic index echange - we, find programs, discover each other and exchange the list of files
+- dht - i use existing dht, not pubsub, to find other find programs to share index (additional field to dht's ping to discover/ask and ut_metadata-like extension to then download index)
+- extension - i am an extension of existing torrent network
+- i do download files
+- system tray - i say no, i run in foreground

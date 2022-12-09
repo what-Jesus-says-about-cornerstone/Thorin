@@ -1,0 +1,11 @@
+i am Find program, i say:
+
+i continously discover files in torrent network
+i use dht only to discover files
+i store complete index of files on each computer i run on
+i discover other find programs in torrent network to exchange index of files
+i extend existing dht messages to discover other find programs
+i have no filters
+i search by file name and sort by seeders
+my search result is simple list of file names, no images
+i neither store nor need any user data - i store only torrent files index

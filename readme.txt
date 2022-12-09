@@ -1,0 +1,1 @@
+this guest gold is ours - and ours alone - i will not part with a single freedom coin - not one piece of it
